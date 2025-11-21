@@ -48,10 +48,10 @@ Las **facturas** se generan en formato **PDF** con numeración correlativa y cá
 ---
 
 ## 🛠 **Tecnologías Utilizadas**
-- **Backend:** PHP, Python (Flask/Django) o Node.js  
+- **Backend:** PHP, JavaScript 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Base de Datos:** MySQL o MariaDB  
-- **Generación de PDFs:** FPDF, TCPDF o equivalente  
+- **Base de Datos:** MySQL
+- **Generación de PDFs:** FPDF, TCPDF 
 - **API de Impuestos:** Se usó una API pública simulada  
 
 ---
